@@ -1,0 +1,177 @@
+ 
+ /* nav  css start */
+ #navbarSupportedContent ul li:hover{
+    background-color: #deb887;
+    border-radius: 5px;
+ }
+/* nav css end */
+
+/* home page css start */
+.home-image{
+    border: 1px solid black;
+    height: 90vh;
+    width: 98.9vw;
+    background-image: linear-gradient(0deg, rgba(1,1,1,0.3), rgba(1,1,1,0.6)),url("https://mayurtm29.github.io/The-Food-Place/images/Bg_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    margin-top: 100px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button{
+    justify-content: center;
+    display: flex;
+}
+.btn1{
+    border: 1px solid white;
+    width: 200px;
+    color: white;
+}
+.btn1:hover{
+    background-color: #deb887;
+}
+/* home page css end */
+
+
+/* about info css start */
+.btn2{
+    margin-left: 180px;
+    padding: 10px;
+    width: 200px;
+}
+
+.btn2:hover{
+    background-color: #deb887 !important;
+}
+/* about info css end */
+
+
+/*  BG Scrolling image css start  */
+.bg-image{
+    height: 30%;
+    width: 100%;
+    background-image: url("https://mayurtm29.github.io/The-Food-Place/images/Bg_5.jpg");
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 2.5rem;
+    margin-top: 2px ;
+}
+ 
+.scroll-me{
+    height: 75%;
+    width: 100%;
+ }
+/*  BG Scrolling image css end  */
+
+
+/* special menu  css start */
+ #navbarNav div a:hover{
+    background-color: #deb887 !important;
+    border-radius: 10px;
+ }
+/* special menu css end */
+
+
+
+ /* card css start */
+.special-cols{
+    display: flex;
+    justify-content: center;
+}
+
+.special img{
+    opacity: .5;
+}
+
+hr{
+    color: black !important;
+    border: dashed !important;
+}
+/* card css end */
+
+
+/* gallary css start */
+.gallary-cols{
+    display: flex;
+    justify-content: center;
+}
+
+.card img{
+    transition: all ease .5s;
+}
+
+.card img:hover{
+    transform: scale(0.9);
+}
+/* gallary css end */
+
+
+
+ /* customer review css  start */
+.customer img{
+    align-items: center;
+}
+
+.image-person{
+    display: flex;
+    justify-content: center;
+}
+
+.image-person img{
+    border-radius: 300px;
+    height: 100px;
+}
+
+/* customer review  css end */
+
+
+/* footer css strat */
+.footer{
+    background-color: #deb887;
+}
+
+.footer-cols{
+    margin-left: auto;
+}
+
+.footer-bottom-cols{
+    background-color: black;
+}
+
+
+.btn3:hover{
+    background-color: #deb887 !important;
+} 
+
+.btn3{
+    width: 190px;
+}
+ .call{
+    font-size: 1.5rem;
+    margin-top: 10px;
+    color: white;
+ }
+/* footer css end */
+
+/* active css start : to active our nav bar*/
+.active{
+    background-color: #deb887 !important;
+    border-radius: 5px
+}
+
+
+
+
+
+
+
+
+
+
+
+
